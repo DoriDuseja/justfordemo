@@ -1,4 +1,5 @@
 # justfordemo
 This is my First Github repositary.
 <br>
-Author - Dori Duseja
+Author - Kritika duseja
+
